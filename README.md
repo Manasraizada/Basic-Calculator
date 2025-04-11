@@ -20,9 +20,11 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 1. Clone the repository:
    ```bash
    git clone https://github.com/Manasraizada/Basic-Calculator.git
-2. Navigate to the project folder:   
+2. Navigate to the project folder:
+   ```bash
    cd Basic-Calculator
-3. Open index.html in your browser:   
+4. Open index.html in your browser:
+   ```bash  
    start index.html
 
 
